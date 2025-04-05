@@ -1,17 +1,4 @@
-[Adblock Plus 2.0]
-! Homepage: http://adblock.sk
-! Title: Easylist Czech and Slovak filter list
-! Last change: 23/01/2025
-! List maintainers: tomasko126, Aslanex, vobruba-martin, Moskoe, Fanboy
-! GitHub repository: https://github.com/tomasko126/easylistczechandslovak
-! GitHub contributors: https://github.com/tomasko126/easylistczechandslovak/graphs/contributors
-! Expires: 1 days
-! License: CC-BY-SA v4.0
-! Email: tomastaro@adblock.sk
-! Supported filters: https://adblockplus.org/en/filters
-!
-! ---------- Czech & Slovak generic blocking rules ---------- !
-!
+
 .com/bannery/
 .cz/ads/
 .cz/BAN/
@@ -27,9 +14,8 @@
 /push-ads.
 /reklama_
 /reklamne-
-!
-! ---------- Czech 1st party blocking rules ---------- !
-!
+
+
 ||*.war-forum.net/images/sh/
 ||1gr.cz/js/uni/oldback/logo.png$script,domain=idnes.cz
 ||1.im.cz/ad/$image
